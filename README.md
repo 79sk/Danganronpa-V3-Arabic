@@ -9,8 +9,7 @@
 
 ## تحميل التعريب
 
-1. [اضغط هنا لتحميل التعريب v1.1](https://github.com/79sk/Danganronpa-V3-Arabic/releases/download/v1.1/Sevenlization_DanganronpaV3.zip)
-2. [Direct_Sevenlization_DanganronpaV3.zip](https://github.com/79sk/Danganronpa-V3-Arabic/releases/download/v1.1/Direct_Sevenlization_DanganronpaV3.zip)
+[اضغط هنا لتحميل التعريب](https://github.com/79sk/Danganronpa-V3-Arabic/releases/tag/v1.1)
 
 ## وش يشمل التعريب؟
 
