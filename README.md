@@ -9,7 +9,7 @@
 
 ## تحميل التعريب
 
-[اضغط هنا لتحميل التعريب](https://github.com/79sk/Danganronpa-V3-Arabic/releases/tag/v1.1)
+[اضغط هنا لتحميل التعريب](https://github.com/79sk/Danganronpa-V3-Arabic/releases/tag/v2.0)
 
 ## وش يشمل التعريب؟
 
